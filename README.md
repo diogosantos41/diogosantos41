@@ -22,7 +22,7 @@ A simple note-taking app I created to reinvigorate my skills and dive into new t
 Feel free to connect or check out my projects and don't hesitate to reach out! 🌟
 
 <a href="https://www.linkedin.com/in/diogo-castro-santos" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="20" height="20">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40" height="40">
 </a>
 <!--
 **diogosantos41/diogosantos41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
