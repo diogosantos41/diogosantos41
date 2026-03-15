@@ -1,40 +1,39 @@
-## 👋 Hey there, I'm Diogo Santos!
+### Hey there, I'm Diogo Santos! 👋
 
-I’m a passionate Mobile Developer (mostly Android) who loves creating impactful and innovative applications. 🚀 I'm constantly looking to learn what I don't know and improve in areas where I can grow.
+I’m an Android Engineer who enjoys building awesome apps.  
+I focus on **Kotlin, Jetpack Compose, and clean architecture** to create apps that feel beautiful, scalable, and maintainable.
 
-## 🔧 Other Tech Interests
-- Kotlin Multiplatform
-- Generative AI
-- AR/VR/MR
+When I'm not coding, you'll probably find me **playing video games or traveling the world**.
+
+---
+
+### 🚀 Currently
+- Senior Android Engineer at **ID-Pal**
+- Exploring **Compose Multiplatform development**
+- Mentoring and teaching other developers
+
+---
+
+### 🧪 Things I like exploring on the side
 - Game Development
+- AR / VR / MR
 
-## 🌟 Personal Projects
-### **StoryCrafters (In Progress)**
-A children's bedtime story app using AI to generate unique and dynamic stories.
-*Technologies: Multi-Module Architecture, Ktor, Koin, Flows, DataStore*
+---
 
-### **Take Note! (2022)**
-A simple note-taking app I created to reinvigorate my skills and dive into new technologies independently.  
-*Technologies: Kotlin, Compose, MVVM, Room, Material 3, Unit & UI Testing*
+### 📱 Personal Projects
+
+#### **Snake Game (CMP)**
+- A classic Snake game built with **Compose Multiplatform for Android and iOS**, exploring cross-platform UI and shared architecture. 
+- 🔗 Repo: [Snake Game](https://github.com/diogosantos41/snake-game-app-cmp/)
+
+#### **Take Note!**
+- A simple note-taking app I created to reinvigorate my skills and experiment with modern Android development.  
+- 🔗 Repo: [Take Note!](https://github.com/diogosantos41/takenote-android)
 
 ---
 
 Feel free to connect or check out my projects and don't hesitate to reach out! 🌟
 
 <a href="https://www.linkedin.com/in/diogo-castro-santos" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png" alt="LinkedIn" width="30" height="30">
 </a>
-<!--
-**diogosantos41/diogosantos41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
